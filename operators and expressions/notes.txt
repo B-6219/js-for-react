@@ -1,0 +1,50 @@
+🧮 Types of Operators
+1. 🧊 Arithmetic Operators
+Used for basic math.
+| Operator | Description         | Example  | Result |
+| -------- | ------------------- | -------- | ------ |
+| `+`      | Addition            | `5 + 3`  | `8`    |
+| `-`      | Subtraction         | `5 - 3`  | `2`    |
+| `*`      | Multiplication      | `5 * 3`  | `15`   |
+| `/`      | Division            | `6 / 2`  | `3`    |
+| `%`      | Modulus (Remainder) | `5 % 2`  | `1`    |
+| `**`     | Exponentiation      | `2 ** 3` | `8`    |
+
+
+2. 🧠 Assignment Operators
+| Operator | Description         | Example  | Equivalent  |
+| -------- | ------------------- | -------- | ----------- |
+| `=`      | Assign value        | `x = 10` | `x = 10`    |
+| `+=`     | Add and assign      | `x += 5` | `x = x + 5` |
+| `-=`     | Subtract and assign | `x -= 2` | `x = x - 2` |
+| `*=`     | Multiply and assign | `x *= 3` | `x = x * 3` |
+
+
+
+3. 🧐 Comparison Operators
+Used to compare two values.
+
+| Operator | Description      | Example     | Result  |
+| -------- | ---------------- | ----------- | ------- |
+| `==`     | Equal (loose)    | `5 == "5"`  | `true`  |
+| `===`    | Equal (strict)   | `5 === "5"` | `false` |
+| `!=`     | Not equal        | `5 != 3`    | `true`  |
+| `!==`    | Strict not equal | `5 !== "5"` | `true`  |
+| `>`      | Greater than     | `7 > 5`     | `true`  |
+| `<`      | Less than        | `3 < 5`     | `true`  |
+
+4. 🔗 Logical Operators
+| Operator | Description | Example         | Result     |        |   |         |        |
+| -------- | ----------- | --------------- | ---------- | ------ | - | ------- | ------ |
+| `&&`     | Logical AND | `true && false` | `false`    |        |   |         |        |
+| \`       |             | \`              | Logical OR | \`true |   | false\` | `true` |
+| `!`      | Logical NOT | `!true`         | `false`    |        |   |         |        |
+
+🧪 Practice Tasks
+No 1.Use arithmetic operators to calculate the area of a rectangle.
+
+No 2.Write an expression to check if a user is 18 or older.
+
+No 3.Combine two conditions using && and ||.
+
+No 4.Try using !== to compare "10" and 10.

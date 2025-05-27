@@ -1,0 +1,8 @@
+🧠 Practice Tasks
+1. Declare a variable for your name and age.
+
+2. Create a variable to store if a user is logged in.
+
+3. Try creating an object to store details of a book (title, author, year).
+
+4. Write an array with 3 of your favorite programming languages.
