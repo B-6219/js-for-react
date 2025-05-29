@@ -1,0 +1,20 @@
+# 🧩 JavaScript Basics: Functions and Scope
+
+---
+
+## ✳️ What is a Function?
+
+A function is a reusable block of code designed to perform a specific task.
+
+### ✅ Basic Function Syntax:
+
+```js
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
+
+greet("Alice"); // Output: Hello, Alice!
+
+
+📦 What is Scope?
+Scope defines where variables can be accessed in your code.
